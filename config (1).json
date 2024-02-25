@@ -1,0 +1,14 @@
+{
+    "token": "OTg2ODU3NDM3NjAyNjc2NzM3.GaKMsc.3AuDIE_ppzoKanBxCVql-mg20ddPmw61PfHnzo",
+    "cooldown": 10, 
+    "statuses": {
+        "status1": {"message": "IanOnTop", "emoji_id": "1063013697531944981"},
+        "status2": {"message": ".gg/xms", "emoji_id": "1203344003047890965"},
+        "status3": {"message": ".gg/novamm", "emoji_id": "1170474898011988060"}, 
+        "status4": {"message": "afk", "emoji_id": "1116054865639116881"}
+
+    },
+    "default_status": "dnd",
+    "key": "YbQV28UPqVv5HryZLkpqFw"
+
+}
